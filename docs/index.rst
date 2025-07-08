@@ -1,7 +1,13 @@
 Quick Canon Printer Setup: How to Install Canon Printer on Your Computer Using IJ Start
 ========================================================================================
 
-Getting your Canon printer up and running doesn’t have to be a hassle. Whether you've purchased a Canon PIXMA, MAXIFY, or any other model, you can easily install it using Canon's official setup portal: `ij.start.canon <https://ij.start.canon>`_. This guide will walk you through the entire process of connecting, downloading drivers, and installing your Canon printer step-by-step.
+Getting your Canon printer up and running doesn’t have to be a hassle. Whether you've purchased a Canon PIXMA, MAXIFY, or any other model, you can easily install it using Canon's official setup portal: ij.start.canon. This guide will walk you through the entire process of connecting, downloading drivers, and installing your Canon printer step-by-step.
+
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://canondesk.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Canon</a>
+   </div>
 
 If you've ever wondered, **“how do I install my canon printer to my computer?”**, you're in the right place. This tutorial simplifies the **ij start canon setup** procedure so you can begin printing, scanning, or copying within minutes.
 
